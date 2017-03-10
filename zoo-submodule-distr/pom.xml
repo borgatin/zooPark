@@ -13,5 +13,11 @@
     <artifactId>zoo-submodule-distr</artifactId>
     <version>0.1-SNAPSHOT</version>
 
-    
+    <dependencies>
+        <dependency>
+            <groupId>ru.avborg</groupId>
+            <artifactId>zoo-submodule</artifactId>
+            <version>0.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>
