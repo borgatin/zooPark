@@ -5,11 +5,11 @@
     <parent>
         <groupId>ru.avborg</groupId>
         <artifactId>zooPark</artifactId>
-        <version>0.1</version>
+        <version>0.2-SNAPSHOT</version>
     </parent>
 
     <artifactId>zoo-submodule</artifactId>
-    <version>0.1</version>
+    <version>0.2-SNAPSHOT</version>
 
     
 </project>

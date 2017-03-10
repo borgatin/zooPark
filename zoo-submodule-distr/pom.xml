@@ -5,17 +5,17 @@
     <parent>
         <groupId>ru.avborg</groupId>
         <artifactId>zooPark</artifactId>
-        <version>0.1</version>
+        <version>0.2-SNAPSHOT</version>
     </parent>
 
     <artifactId>zoo-submodule-distr</artifactId>
-    <version>0.1</version>
+    <version>0.2-SNAPSHOT</version>
 
     <dependencies>
         <dependency>
             <groupId>ru.avborg</groupId>
             <artifactId>zoo-submodule</artifactId>
-            <version>0.1</version>
+            <version>0.2-SNAPSHOT</version>
         </dependency>
     </dependencies>
 </project>
